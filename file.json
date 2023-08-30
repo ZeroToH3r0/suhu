@@ -1,0 +1,66 @@
+{ 
+    
+    "https://*********************************": [
+        {			
+		//MENU_APP//===============================================================================================================
+		
+		"status_app":"0",
+		"mode_pdf_online":"0",
+		"link_redirect":"https://",
+		"link_share_app":"https://", 
+		"link_godev":"https://", 
+// 		"link_godev":"https://play.google.com/store/apps/developer?id=4,8+%E2%98%86++%E2%96%A1+10+jt%2B", 
+
+		//TIMER//===============================================================================================================
+		"timer_content":"5",
+		"timer_reward":"300",
+		
+		//IMAGE_PLAYLIST//===============================================================================================================	
+		"judul_app":"NONAME",	
+		
+		"url_icon_app":"https://",
+		
+		"url_image_header":"https://",
+		
+		
+		"url_image_support_app":"https://",
+		
+		"url_bg_cover_playlist_1":"https://",
+		
+		//ADS//===============================================================================================================	
+		
+		"admob_bannerid":"ca-app-pub-3940256099942544/6300978111x",
+        "admob_interid": "ca-app-pub-3940256099942544/1033173712x",
+		"admob_nativeid": "ca-app-pub-3940256099942544/1044960115x",
+		"Open_Ads": "ca-app-pub-3940256099942544/3419835294x",
+		"admob_rewardid": "ca-app-pub-3940256099942544/5224354917x",
+		
+		"applovin_banner": "xxxxxx",	
+        "applovin_intersial": "xxxxxx",	
+        "applovin_native1": "xxxxxx",		
+		"applovin_reward": "xxxxxx",	
+        
+        
+        //SAMPLE ADS//===============================================================================================================
+        
+// 		"admob_bannerid":"ca-app-pub-3940256099942544/6300978111x",
+//         "admob_interid": "ca-app-pub-3940256099942544/1033173712x",
+// 		"admob_nativeid": "ca-app-pub-3940256099942544/1044960115x",
+// 		"Open_Ads": "ca-app-pub-3940256099942544/3419835294x",
+// 		"admob_rewardid": "ca-app-pub-3940256099942544/5224354917x",
+		
+// 		"applovin_banner": "xxxxx",	
+//         "applovin_intersial": "xxxxx",	
+//         "applovin_native1": "xxxxx",		
+// 		"applovin_reward": "xxxxx",	
+		
+		//PUBLISH//===============================================================================================================
+		
+        "content_1": ""
+        //RILIS REVIEW//===============================================================================================================
+        // "content_1": "https://ia904702.us.archive.org/26/items/coming-soon_202301/coming%20soon.pdf"
+		
+        }
+    ]
+	
+}
