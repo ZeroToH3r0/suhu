@@ -27,11 +27,11 @@
 		
 		//ADS//===============================================================================================================	
 		
-		"admob_bannerid":"ca-app-pub-3940256099942544/6300978111x",
-        "admob_interid": "ca-app-pub-3940256099942544/1033173712x",
-		"admob_nativeid": "ca-app-pub-3940256099942544/1044960115x",
-		"Open_Ads": "ca-app-pub-3940256099942544/3419835294x",
-		"admob_rewardid": "ca-app-pub-3940256099942544/5224354917x",
+		"admob_bannerid":"ca-app-pub-2884131976071273/2606602600",
+        "admob_interid": "ca-app-pub-2884131976071273/9419422963",
+		"admob_nativeid": "ca-app-pub-2884131976071273/2230116511",
+		"Open_Ads": "ca-app-pub-2884131976071273/2614912285",
+		"admob_rewardid": "ca-app-pub-2884131976071273/xxxxx",
 		
 		"applovin_banner": "xxxxxx",	
         "applovin_intersial": "xxxxxx",	
