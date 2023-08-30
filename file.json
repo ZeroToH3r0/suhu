@@ -9,7 +9,6 @@
 		"link_redirect":"https://",
 		"link_share_app":"https://", 
 		"link_godev":"https://", 
-// 		"link_godev":"https://play.google.com/store/apps/developer?id=4,8+%E2%98%86++%E2%96%A1+10+jt%2B", 
 
 		//TIMER//===============================================================================================================
 		"timer_content":"5",
@@ -20,8 +19,7 @@
 		
 		"url_icon_app":"https://",
 		
-		"url_image_header":"https://",
-		
+		"url_image_header":"https://",		
 		
 		"url_image_support_app":"https://",
 		
@@ -57,8 +55,6 @@
 		//PUBLISH//===============================================================================================================
 		
         "content_1": ""
-        //RILIS REVIEW//===============================================================================================================
-        // "content_1": "https://ia904702.us.archive.org/26/items/coming-soon_202301/coming%20soon.pdf"
 		
         }
     ]
